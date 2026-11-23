@@ -20,4 +20,3 @@ public class Leaf : Node
         return Status.FAILURE;
     }
 }
-
