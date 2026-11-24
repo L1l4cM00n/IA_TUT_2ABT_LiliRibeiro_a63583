@@ -679,11 +679,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 133567712}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &143386389 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: a5028766c6c2448878d200bb33de1f59, type: 3}
-  m_PrefabInstance: {fileID: 390087451}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &250082963
 GameObject:
   m_ObjectHideFlags: 0
@@ -2269,8 +2264,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42eebe1cd53ff62f3b87cd40a13cd2cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RobberBehaviour
-  dimond: {fileID: 143386389}
+  diamond: {fileID: 1550492363}
   van: {fileID: 1545425337}
+  backdoor: {fileID: 919599686}
 --- !u!1 &716268924
 GameObject:
   m_ObjectHideFlags: 0
